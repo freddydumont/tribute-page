@@ -1,0 +1,24 @@
+/*ul {
+    list-style-position: inside;
+}*/
+
+.container {
+    margin-top: 40px;
+}
+
+em {
+    font-weight: 600;
+    font-style: normal;
+}
+
+figure {
+    max-width: 80%;
+}
+
+li {
+    margin-bottom: 0.75em;
+}
+
+ol {
+    list-style-type: disc;
+}
